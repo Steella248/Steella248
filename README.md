@@ -1,8 +1,10 @@
 <img src="assets/header.svg" width="100%" alt="Stella">
 
-<a href="https://github.com/Wing231">
+<a href="https://github.com/Steella248">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=18&amp;duration=1400&amp;pause=1200&amp;color=DC143C&amp;multiline=true&amp;repeat=true&amp;width=440&amp;height=90&amp;lines=%3E+whoami;%3E+stella;%3E+loading..." alt="Typing animation">
 </a>
+
+<img src="assets/boot.svg" width="100%" alt="Boot screen">
 
 ### 〔 about 〕
 
