@@ -69,6 +69,8 @@ My name is Stella. I'm just a developer who loves to code.
 </td></tr>
 </table>
 
+<img src="assets/langs.svg" width="100%" alt="Languages across all projects">
+
 ### 〔 status 〕
 
 <a href="https://discord.com/users/723234997091172375">
